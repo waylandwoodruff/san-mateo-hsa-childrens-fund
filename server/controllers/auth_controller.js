@@ -1,4 +1,4 @@
-var domain = 'http://localhost:4568';
+var domain = 'http://hsa-cf-test.azurewebsites.net';
 
 /*jslint node: true */
 'use strict';
